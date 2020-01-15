@@ -1,2 +1,2 @@
-# Web/lEBENSLAUF
+# Web/Lebenslauf
 html/css
